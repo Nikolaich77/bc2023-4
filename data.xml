@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<auctions>
+  <auction>
+    <AuctionDate>29.08.2023</AuctionDate>
+    <AuctionNum>142</AuctionNum>
+    <ValCode>UAH</ValCode>
+    <StockCode>UA4000227656</StockCode>
+    <PayDate>30.08.2023</PayDate>
+    <RepayDate>15.01.2025</RepayDate>
+    <DaysToRepay>504</DaysToRepay>
+    <StockRestrict>1730479</StockRestrict>
+    <StockRestrictN>501134</StockRestrictN>
+    <StockRestrictMF>2500000</StockRestrictMF>
+    <Bucket>1,5y</Bucket>
+    <IncomeLevel>18.35</IncomeLevel>
+    <AvgLevel>18.35</AvgLevel>
+    <Amount>1730479</Amount>
+    <AmountN>501134</AmountN>
+    <BTC>1</BTC>
+    <VolumeSubmit>1730479000</VolumeSubmit>
+    <VolumeSold>1730479000</VolumeSold>
+    <VolumeSoldN>501134000</VolumeSoldN>
+    <Attraction>1791515424.33</Attraction>
+    <MinLevel>18.3</MinLevel>
+    <MaxLevel>18.35</MaxLevel>
+</auction>
+  <auction>
+    <AuctionDate>29.08.2023</AuctionDate>
+    <AuctionNum>143</AuctionNum>
+    <ValCode>UAH</ValCode>
+    <StockCode>UA4000228381</StockCode>
+    <PayDate>30.08.2023</PayDate>
+    <RepayDate>04.11.2026</RepayDate>
+    <DaysToRepay>1162</DaysToRepay>
+    <StockRestrict>5000000</StockRestrict>
+    <StockRestrictN>1266877</StockRestrictN>
+    <StockRestrictMF>5000000</StockRestrictMF>
+    <Bucket>3y</Bucket>
+    <IncomeLevel>19.2</IncomeLevel>
+    <AvgLevel>19.18</AvgLevel>
+    <Amount>5000000</Amount>
+    <AmountN>1266877</AmountN>
+    <BTC>1.7</BTC>
+    <VolumeSubmit>8664102000</VolumeSubmit>
+    <VolumeSold>5000000000</VolumeSold>
+    <VolumeSoldN>1266877000</VolumeSoldN>
+    <Attraction>5289821763.42</Attraction>
+    <MinLevel>19</MinLevel>
+    <MaxLevel>19.25</MaxLevel>
+</auction>
+  <auction>
+    <AuctionDate>29.08.2023</AuctionDate>
+    <AuctionNum>141</AuctionNum>
+    <ValCode>UAH</ValCode>
+    <StockCode>UA4000187207</StockCode>
+    <PayDate>30.08.2023</PayDate>
+    <RepayDate>02.10.2024</RepayDate>
+    <DaysToRepay>399</DaysToRepay>
+    <StockRestrict>169830</StockRestrict>
+    <StockRestrictN>6346</StockRestrictN>
+    <StockRestrictMF>4000000</StockRestrictMF>
+    <Bucket>1y</Bucket>
+    <IncomeLevel>17.8</IncomeLevel>
+    <AvgLevel>17.8</AvgLevel>
+    <Amount>169830</Amount>
+    <AmountN>6346</AmountN>
+    <BTC>1</BTC>
+    <VolumeSubmit>169830000</VolumeSubmit>
+    <VolumeSold>169830000</VolumeSold>
+    <VolumeSoldN>6346000</VolumeSoldN>
+    <Attraction>176631691.5</Attraction>
+    <MinLevel>17.8</MinLevel>
+    <MaxLevel>17.8</MaxLevel>
+</auction>
+</auctions>
